@@ -32,5 +32,5 @@ Em Breve...
 
 ## Onde me encontrar
 
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emanuelhenrique1562@gmail.com)](mailto:emanuelhenrique1562@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]([https://github.com/emanuelH123](https://github.com/emanuelH123)https://github.com/emanuelH123)
+[![Gmail Badge](https://img.shields.io/badge/-emanuelhenrique1562@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emanuelhenrique1562@gmail.com)](mailto:emanuelhenrique1562@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/emanuelH123?tab=repositories)
