@@ -6,7 +6,7 @@
 - 🎓 Estudando Desenvolvimento de Sistemas na Escola Estadual Iracema de Almeida (Ensino Médio - Integral).
 - 🖥 Aprendendo a cada dia mais sobre HTML, CSS e Java Script.
 
-## Minhas Skills
+## Minhas Habilidades
 
 **Desenvolvimento Web**
 
