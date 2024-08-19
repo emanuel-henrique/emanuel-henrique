@@ -30,7 +30,7 @@ Em Breve...
 
 <br/>
 
-<a href="https://github.com/emanuelH123" title="Perfil do Emanuel">
+<a href="https://github.com/emanuel-henrique" title="Perfil do Emanuel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuelH123&theme=dracula&show_icons=true" />
 </a>
 
