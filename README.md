@@ -4,7 +4,7 @@
 
 - 🚀 No caminho a me tornar um Desenvolver WEB e Mobile.
 - 🎓 Estudando Desenvolvimento de Sistemas na Escola Estadual Iracema de Almeida (Ensino Médio - Integral).
-- 🖥 Estudando diariamente sobre: HTML, CSS e JavaScript
+- 🖥 Estudando diariamente sobre: HTML, CSS, JavaScript e Node JS
 
 ## Sistema Operacional
 
