@@ -2,9 +2,19 @@
 
 ## Sobre mim
 
-- 🚀 No caminho a me tornar um Desenvolver WEB e Mobile.
-- 🎓 Estudando Desenvolvimento de Sistemas na Escola Estadual Iracema de Almeida (Ensino Médio - Integral).
-- 🖥 Estudando diariamente sobre: HTML, CSS, JavaScript e Node JS
+🇧🇷 Front-End Developer (17 anos) 
+Estudante de Desenvolvimento de Sistemas (Ensino Médio Integral)
+
+- Focado em Web: HTML, CSS, JavaScript, React, TailwindCSS, ShadCN 
+- Explorando Mobile e ferramentas como VSCode, Git, Figma e Vercel 
+- Objetivo: evoluir como desenvolvedor e construir projetos de impacto.
+
+🇺🇸 Front-End Developer (17 years old)
+Student of Systems Development (Full-Time Technical High School)
+
+- Focused on Web: HTML, CSS, JavaScript, React, TailwindCSS, ShadCN
+- Exploring Mobile development and tools such as VSCode, Git, Figma, and Vercel
+- Goal: to grow as a developer and build impactful projects.
 
 ## Sistema Operacional
 
