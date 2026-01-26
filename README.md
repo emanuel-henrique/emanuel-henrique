@@ -29,7 +29,7 @@ Student of Systems Development (Full-Time Technical High School)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ![ReactJS](https://img.shields.io/badge/ReactJS-1f1f1f?style=for-the-badge&logo=react&logoColor=white)
-![NextJS](https://img.shields.io/badge/NextJS-1f1f1f?style=for-the-badge&logo=next&logoColor=white)
+![NextJS](https://img.shields.io/badge/NextJS-1f1f1f?style=for-the-badge&logo=nextjs&logoColor=white)
 ![Tailwindcss](https://img.shields.io/badge/Tailwindcss-040817?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![ShadCN Ui](https://img.shields.io/badge/ShadcnUI-0a0a0a?style=for-the-badge&logo=shadcnui&logoColor=white)
 
