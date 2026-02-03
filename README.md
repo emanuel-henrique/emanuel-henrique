@@ -56,10 +56,6 @@ Em Breve...
 
 <br/>
 
-<a href="https://github.com/emanuel-henrique" title="Perfil do Emanuel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuel-henrique&theme=dracula&show_icons=true" />
-</a>
-
 ## Onde me encontrar
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@manelh_11/)
