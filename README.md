@@ -2,15 +2,15 @@
 
 ## Sobre mim
 
-🇧🇷 Front-End Developer (17 anos) 
-Estudante de Desenvolvimento de Sistemas (Ensino Médio Integral)
+🇧🇷 Front-End Developer (18 anos) 
+Estudante de Engenharia de Software (Universidade Federal de Goiás - UFG)
 
 - Focado em Web: HTML, CSS, JavaScript, React, TailwindCSS, ShadCN 
 - Explorando Mobile e ferramentas como VSCode, Git, Figma e Vercel 
 - Objetivo: evoluir como desenvolvedor e construir projetos de impacto.
 
 🇺🇸 Front-End Developer (17 years old)
-Student of Systems Development (Full-Time Technical High School)
+Student of Software Engineering (Federal University of Goiás - UFG)
 
 - Focused on Web: HTML, CSS, JavaScript, React, TailwindCSS, ShadCN
 - Exploring Mobile development and tools such as VSCode, Git, Figma, and Vercel
