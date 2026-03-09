@@ -9,7 +9,7 @@ Estudante de Engenharia de Software (Universidade Federal de Goiás - UFG)
 - Explorando Mobile e ferramentas como VSCode, Git, Figma e Vercel 
 - Objetivo: evoluir como desenvolvedor e construir projetos de impacto.
 
-🇺🇸 Front-End Developer (17 years old)
+🇺🇸 Front-End Developer (18 years old)
 Student of Software Engineering (Federal University of Goiás - UFG)
 
 - Focused on Web: HTML, CSS, JavaScript, React, TailwindCSS, ShadCN
