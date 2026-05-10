@@ -2,14 +2,14 @@
 
 ## Sobre mim
 
-🇧🇷 Front-End & Back-End Developer (18 anos)  
+🇧🇷 Front-End & Back-End Developer (19 anos)  
 Estudante de Engenharia de Software (Universidade Federal de Goiás - UFG)
 
 - Focado em Web: HTML, CSS, JavaScript, React, Next.js, TailwindCSS, ShadCN e Golang
 - Explorando desenvolvimento Back-End, APIs REST, PostgreSQL e ferramentas como VSCode, Git, Figma e Vercel
 - Objetivo: evoluir como desenvolvedor e construir projetos de impacto.
 
-🇺🇸 Front-End & Back-End Developer (18 years old)  
+🇺🇸 Front-End & Back-End Developer (19 years old)  
 Student of Software Engineering (Federal University of Goiás - UFG)
 
 - Focused on Web: HTML, CSS, JavaScript, React, Next.js, TailwindCSS, ShadCN and Golang
