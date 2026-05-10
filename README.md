@@ -2,18 +2,18 @@
 
 ## Sobre mim
 
-🇧🇷 Front-End Developer (18 anos) 
+🇧🇷 Front-End & Back-End Developer (18 anos)  
 Estudante de Engenharia de Software (Universidade Federal de Goiás - UFG)
 
-- Focado em Web: HTML, CSS, JavaScript, React, TailwindCSS, ShadCN 
-- Explorando Mobile e ferramentas como VSCode, Git, Figma e Vercel 
+- Focado em Web: HTML, CSS, JavaScript, React, Next.js, TailwindCSS, ShadCN e Golang
+- Explorando desenvolvimento Back-End, APIs REST, PostgreSQL e ferramentas como VSCode, Git, Figma e Vercel
 - Objetivo: evoluir como desenvolvedor e construir projetos de impacto.
 
-🇺🇸 Front-End Developer (18 years old)
+🇺🇸 Front-End & Back-End Developer (18 years old)  
 Student of Software Engineering (Federal University of Goiás - UFG)
 
-- Focused on Web: HTML, CSS, JavaScript, React, TailwindCSS, ShadCN
-- Exploring Mobile development and tools such as VSCode, Git, Figma, and Vercel
+- Focused on Web: HTML, CSS, JavaScript, React, Next.js, TailwindCSS, ShadCN and Golang
+- Exploring Back-End development, REST APIs, PostgreSQL and tools such as VSCode, Git, Figma and Vercel
 - Goal: to grow as a developer and build impactful projects.
 
 ## Sistema Operacional
@@ -22,7 +22,7 @@ Student of Software Engineering (Federal University of Goiás - UFG)
 
 ## Minhas Habilidades
 
-**Desenvolvimento Web - Front End**
+### Desenvolvimento Web - Front End
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,22 +33,24 @@ Student of Software Engineering (Federal University of Goiás - UFG)
 ![Tailwindcss](https://img.shields.io/badge/Tailwindcss-040817?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![ShadCN Ui](https://img.shields.io/badge/ShadcnUI-0a0a0a?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-**Desenvolvimento Web - Back End**
+### Desenvolvimento Web - Back End
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=go&logoColor=white)
 
-**Databases**
+### Databases
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Desenvolvimento Mobile**
+### Desenvolvimento Mobile
 
 Em Breve...
 
-**Ferramentas de desenvolvimento**
+### Ferramentas de desenvolvimento
 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=white)
